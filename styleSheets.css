@@ -89,7 +89,7 @@
     box-shadow: 1px 1px 10px #888;
 }
 
-#noticia{
+.noticia{
     display: inline-block;
     width: 100%;
     height: 200px;
