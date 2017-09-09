@@ -9,15 +9,22 @@
     left: 0px;
     width: 100%;
     height: 40px;
-    background: #214478;
+    background: #2ca05a;
     color: #fff;
     z-index: 1;
+    box-shadow: 1px 1px 10px #888;
 }
-#n{
-    margin: 5px;
+#perfil{
     display: inline-block;
-    width: 40px;
-    height: 100%;
+    vertical-align: top;
+    width: 5%;
+    height: 40px;
+}
+#perfil img {
+    width: 30px;
+    margin: 5px;
+    border-radius:50%;
+    border: 2px solid #fff;
 }
 
 #nome{
@@ -30,7 +37,7 @@
 #menu{
     display: inline-block;
     vertical-align: top;
-    width: 45%;
+    width: 40%;
     margin: 10px;
 }
 .menu{
@@ -79,34 +86,43 @@
     height: 95%;
     margin: 2%;
     background: #fff;
+    box-shadow: 1px 1px 10px #888;
 }
 
 #noticias h4{
     text-align: center;
 }
 
-
-#perfil{
+#perfilCompleto{
     width: 100%;
-    height: 40%;
+    vertical-align: top;
+    text-align: justify;
+    margin: 0  2% 2% 0;
     background: #fff;
-    margin-bottom: 20px;
-    font-size: 11pt;
-    padding: 20px;
-    text-align:justify;
     overflow: auto;
+    padding: 5%;
+    margin-bottom: 5%;
+    box-shadow: 1px 1px 10px #888;
 }
 
-#perfil img{
-    float: left;
-    margin:0 10px 10px 0;
+#fotoPerfil {
+   text-align: center;
+ 
 }
 
-#perfil h2{
-    background:  #214478;
-    padding: 10px;
+ 
+#fotoPerfil img{
+    align-items: center;
+    margin: 0 3% 3% 0;
+    border-radius: 50%;
+    border: 5px solid #2ca05a;
+}
+
+#perfilCompleto h2{
+    background: #2ca05a;
     color: #fff;
-    margin-top: 0;
+    padding: 10px;
+    margin-top: 0px;
 }
 
 #contato{
@@ -114,10 +130,12 @@
     height: 35%;
     background: #fff;
     margin-bottom: 20px;
+    box-shadow: 1px 1px 10px #888;
 }
 
 #projetos{
     width: 100%;
     height: 23.5%;
     background: #fff;
+    box-shadow: 1px 1px 10px #888;
 }
