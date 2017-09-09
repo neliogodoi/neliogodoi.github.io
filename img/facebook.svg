@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="296"
+   viewBox="0 0 90 88.8"
+   sodipodi:docname="facebook.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     id="namedview4"
+     showgrid="false"
+     scale-x="0.3"
+     borderlayer="true"
+     inkscape:zoom="0.7972973"
+     inkscape:cx="-121.54237"
+     inkscape:cy="148"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <image
+     sodipodi:absref="/var/www/html/pages/pessoal/img/facebook.png"
+     xlink:href="facebook.png"
+     y="0"
+     x="0"
+     id="image10"
+     preserveAspectRatio="none"
+     height="296"
+     width="300" />
+  <image
+     sodipodi:absref="/home/nelio/Downloads/Facebook_icon-icons.com_66805.png"
+     y="-1.4210855e-14"
+     x="0"
+     id="image4549"
+     xlink:href="file:///home/nelio/Downloads/Facebook_icon-icons.com_66805.png"
+     preserveAspectRatio="none"
+     height="89.427116"
+     width="89.427116" />
+  <path
+     style="fill:#ffffff;stroke-width:0.07040939"
+     d="m -103.24236,76.572298 c -0.68906,-0.11649 -1.26543,-0.58676 -1.51672,-1.237509 -0.12933,-0.334898 -0.13325,-0.826833 -0.13325,-16.705782 0,-15.92257 0.004,-16.370035 0.13426,-16.708439 0.17796,-0.460886 0.59419,-0.899798 1.04739,-1.104464 l 0.36825,-0.1663 h 16.4501 16.450098 l 0.368246,0.1663 c 0.4532,0.204666 0.869433,0.643578 1.047394,1.104464 0.130666,0.338404 0.134262,0.785869 0.134262,16.708439 0,15.92257 -0.0036,16.370035 -0.134262,16.708439 -0.177961,0.460886 -0.594194,0.899798 -1.047394,1.104464 l -0.368246,0.1663 -4.772994,0.0208 -4.772994,0.0208 v -6.969705 -6.969708 h 2.323511 2.323511 l 0.03418,-0.158329 c 0.04007,-0.185639 0.673006,-5.117824 0.673006,-5.244469 0,-0.0662 -0.616572,-0.08596 -2.681577,-0.08596 h -2.681578 l 0.02683,-2.234206 c 0.02021,-1.68258 0.05123,-2.302299 0.125628,-2.509995 0.159444,-0.445094 0.669262,-0.934403 1.159814,-1.113157 0.387883,-0.141342 0.580831,-0.156174 2.342466,-0.180067 l 1.919765,-0.02604 v -2.447462 -2.447463 l -0.307743,-0.04213 c -1.549885,-0.21219 -4.857319,-0.223692 -5.752708,-0.02 -2.703956,0.615105 -4.402526,2.332611 -5.018426,5.07437 -0.124992,0.55642 -0.146138,0.955859 -0.174148,3.289737 l -0.03188,2.656418 h -2.353633 -2.353633 v 2.744379 2.74438 h 2.360078 2.360079 v 6.9665 6.966502 l -8.612525,-0.0083 c -4.73689,-0.0046 -8.757707,-0.03282 -8.935157,-0.06282 z"
+     id="path4552"
+     inkscape:connector-curvature="0"
+     inkscape:export-xdpi="50.399994"
+     inkscape:export-ydpi="50.399994" />
+</svg>
