@@ -45,6 +45,7 @@
     width: 30%;
     height: 100%;
     text-align: center;
+
 }
 #social{
     display: inline-block;
@@ -90,12 +91,11 @@
 }
 
 .noticia{
-    display: inline-block;
-    width: 100%;
-    height: 200px;
-    margin-bottom: 2%;
+    margin: 2%;
+    width: 95%;
+    height: 150px;
     background: #fff;
-    box-shadow: 1px 1px 10px #888;
+    border-bottom: 1px solid #5fd38d;
 }
 
 #noticias h4{
@@ -113,27 +113,12 @@
     margin-bottom: 5%;
     box-shadow: 1px 1px 10px #888;
 }
-
-#fotoPerfil {
-   text-align: center;
  
-}
-
- 
-#fotoPerfil img{
-    align-items: center;
+#perfilCompleto img{
     margin: 0 3% 3% 0;
     border-radius: 50%;
     border: 5px solid #2ca05a;
 }
-
-#perfilCompleto h2{
-    background: #2ca05a;
-    color: #fff;
-    padding: 10px;
-    margin-top: 0px;
-}
-
 #contato{
     width: 100%;
     height: 35%;
